@@ -1,0 +1,7 @@
+python-dotenv
+requests
+pandas
+pyarrow
+networkx
+plotly
+dash
